@@ -50,8 +50,8 @@ header {
   align-items: center;
 }
 
-header img {
-  width: 12%;
+header > img {
+  width: 20%;
 }
 
 header > h2 {
@@ -66,7 +66,7 @@ header > p {
 }
 
 section {
-  width: 75%;
+  width: 85%;
   max-width: 668px;
   margin: 10px;
   display: flex;
